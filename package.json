@@ -11,12 +11,14 @@
     "worker": "node worker/index.js"
   },
   "dependencies": {
+    "@promster/fastify": "^3.1.10",
     "bcrypt": "^5.0.0",
     "bullmq": "^1.8.13",
     "dynamoose": "^2.2.1",
     "fastify": "^2.15.0",
     "fastify-cookie": "^3.6.1",
     "fastify-cors": "^3.0.3",
+    "prom-client": "^12.0.0",
     "tesseract.js": "^2.1.1"
   },
   "devDependencies": {
