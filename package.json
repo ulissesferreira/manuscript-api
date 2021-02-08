@@ -14,7 +14,7 @@
     "@promster/fastify": "^3.1.10",
     "bcrypt": "^5.0.0",
     "bullmq": "^1.8.13",
-    "dynamoose": "^2.2.1",
+    "dynamoose": "^2.7.0",
     "fastify": "^2.15.0",
     "fastify-cookie": "^3.6.1",
     "fastify-cors": "^3.0.3",
